@@ -370,7 +370,7 @@ public class TG {
 								pn_mat.repaint();	
 							}
 							System.out.println("\n");
-						}//
+						}//cout
 						cost=graph.costMatrix(res);	
 //						System.out.println("*******************cost**************");
 //						for(int i=0;i<cost.length;i++)
